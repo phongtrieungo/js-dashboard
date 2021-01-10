@@ -21,3 +21,11 @@ The dashboard will contain several applications developed by using Javascript, H
 7. Email
 
 8. Clock
+
+9. Paint
+
+10. News
+
+11. Photos
+
+12. Chatbot
