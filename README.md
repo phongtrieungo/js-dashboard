@@ -6,7 +6,7 @@ The dashboard will contain several applications developed by using Javascript, H
 
 ## Expected Application
 
-1. Calculator
+1. Calculator   ------- IN PROGRESS
 
 2. Weather
 
